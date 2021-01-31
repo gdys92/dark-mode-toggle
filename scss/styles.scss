@@ -67,14 +67,14 @@ body {
 }
 body.dark-theme {
     --color-bg: #0d1117;
-    --color-texto1: #4a77b8;
+    --color-texto1: #ffffff;
 }
 
 
 @media (prefers-color-scheme: dark) {
     body {
         --color-bg: #0d1117;
-        --color-texto1: #4a77b8;
+        --color-texto1: #ffffff;
     }
 
     body.light-theme {
